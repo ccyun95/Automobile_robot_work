@@ -3,3 +3,5 @@ Robotis,108490
 PnS_Robotics,460940
 Woorim_PTS,101170
 SPG,058610
+Hyundai_Rotem,064350
+Hyundai_Mobis,012330
