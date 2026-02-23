@@ -1,7 +1,10 @@
 Hyundi,005380
 Hyundai_Mobis,012330
-Hyundai_Rotem,064350
+Hyundai_Autoever,307950
 Robotis,108490
 PnS_Robotics,460940
 Woorim_PTS,101170
 SPG,058610
+Sphere,347700
+Samhyun,437730
+HVM,295310
